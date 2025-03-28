@@ -1,5 +1,5 @@
 import os 
-os.system("clear")
+os.system("clear") # Alunos: Diego Luis e Miguel Ferraz
 
 print("""
     ================== MENU ===================
